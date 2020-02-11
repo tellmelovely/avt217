@@ -1,0 +1,36 @@
+body {
+  background-color: #55B4B0;
+  color: white;
+  font-family: serif;
+  font-size: 30px;
+  margin: 75px 75px;
+}
+a {
+  text-transform: uppercase;
+  color:black;
+  text-decoration: none;
+  letter-spacing: 30px
+}
+a:hover {
+  color:white;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li{
+  margin:25px 0 0 0;
+}
+h1{
+  text-align: center;
+  color: black;
+
+}
+#images {
+  margin: 0;
+  text-align: center;
+}
+#images {
+  max-width: 75%;
+  margin: 25px 0;
+}

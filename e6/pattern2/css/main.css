@@ -1,0 +1,26 @@
+body{
+  margin: 0;
+}
+.container {
+  width: 120%;
+  margin: -50px -10px;
+}
+.block1, .block2, .block3{
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  margin: 100px;
+  float: left;
+  border-radius: 69%;
+  border-style: dotted; white;
+
+}
+.block1 {
+  background-color: #0c873f;
+}
+.block2 {
+  background-color: #f0327b;
+}
+.block3 {
+  background-color: #f5f51b;
+}

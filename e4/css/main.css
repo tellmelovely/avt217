@@ -2,8 +2,14 @@ body {
   background-color: #55B4B0;
   color: white;
   font-family: serif;
-  font-size: 30px;
-  margin: 75px 75px;
+  font-size: 25px;
+  margin: 100px 300px;
+
+.container {
+    width: 50%;
+    margin: 100px auto;
+}
+
 }
 a {
   text-transform: uppercase;
@@ -23,6 +29,8 @@ li{
 }
 h1{
   text-align: center;
+  font-family: avenir;
+  font-size: 75px;
   color: black;
 
 }
@@ -33,4 +41,14 @@ h1{
 #images {
   max-width: 75%;
   margin: 25px 0;
+}
+
+  p {
+    color:black
+    margin-bottom:1:15rem
+
+}
+  .intro {
+  color: pink;
+  font-size: 45px;
 }

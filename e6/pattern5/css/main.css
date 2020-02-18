@@ -3,23 +3,25 @@ body{
 }
 .container {
   width: 120%;
-  margin: -50px -10px;
+  margin: -100px -10px;
 }
 .block1, .block2, .block3{
-  width: 100px;
-  height: 100px;
+  width: 60px;
+  height: 200px;
   background-color: white;
   margin: 10px;
   float: right;
-  border-radius: 30%;
+  border-radius: 0px;
+  border-style: solid; color: black;
+
 
 }
 .block1 {
-  background-color: #3a3e47;
+  background-color: #ffc300;
 }
 .block2 {
-  background-color: #ffc1c1;
+  background-color: #d696bb;
 }
 .block3 {
-  background-color: #fbdb48;
+  background-color: #44bec7;
 }

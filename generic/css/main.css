@@ -1,0 +1,16 @@
+h1 {
+  background-color: white;
+  font-size: 150px;
+  font-family: 'Abril Fatface', cursive;
+}
+h1.google{
+  font-family: 'Abril Fatface', cursive;
+
+}
+#container {
+  background-color: yellow;
+  width: 75%;
+  margin: 100px auto;
+  padding: 100px;
+
+}

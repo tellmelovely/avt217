@@ -1,0 +1,33 @@
+.container{
+  width: 900px;
+  margin: 100px auto;
+}
+.header, .subhead, .column, .footer {
+  float: left;
+  background-color: orange;
+}
+.header {
+  width: 900px;
+  height: 100px;
+}
+.subhead {
+  width: 900px;
+  height: 50px;
+  margin: 25px 0px;
+}
+.column {
+  width: 283.33px;
+  height: 600px;
+}
+.columnmargins {
+  width: 283.33px;
+  height: 600px;
+  margin: 0px 25px;
+  float: left;
+  background-color: orange;
+}
+.footer {
+  width: 900px;
+  height: 75px;
+  margin: 25px 0px;
+}

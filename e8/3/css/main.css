@@ -1,0 +1,36 @@
+body{
+  background-color: #D3D3D3;
+}
+
+.container{
+  width: 900px;
+  margin: 100px 0px;
+}
+.top, .middle, .submiddle, .bottom, .subbottom{
+  float: left;
+  background-color: #269F2C ;
+}
+.top {
+  width: 900px;
+  height: 150px;
+}
+.middle {
+  width: 700px;
+  height: 400px;
+  margin: 150px 0px 0px 0px;
+}
+.submiddle {
+  width: 700px;
+  height: 50px;
+  margin: 20px 0px;
+}
+.bottom {
+  width: 700px;
+  height: 400px;
+  margin: 150px 0px 0px 0px;
+}
+.subbottom {
+  width: 700px;
+  height: 50px;
+  margin: 20px 0px;
+}

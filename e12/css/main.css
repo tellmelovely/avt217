@@ -1,0 +1,70 @@
+body{
+  margin: 0;
+}
+.container{
+  width: 1200px;
+  height: 300px;
+  margin: 100px auto;
+}
+.img{
+  width:30%;
+}
+.photo{
+  width: 100%;
+  height: 300px;
+  margin: 0;
+  background-color: black;
+
+}
+.sidebar{
+  background-color: #196F3D;
+  width: 200px;
+  margin: 0px 25px 0px 178px;
+  float: left;
+}
+.title{
+  width: 100px;
+  float: left;
+  font-size: 60px;
+  transform: rotate(90deg);
+}
+
+.author{
+  width: 100px;
+  height: 100px;
+  margin: 625px 0 0 0;
+  background-color: lightpink;
+  float: left;
+}
+.content{
+  width: 973px;
+  background-color: skyblue;
+  float: left;
+  margin: 0px auto;
+}
+.letter1{
+  width: 300px
+  height: 80px;
+  background-color: orange;
+  float: left;
+}
+.maintext{
+  width: 50%;
+  height: 100px;
+  margin: 30% 0 0 50%;
+  background-color: yellow;
+  float: left;
+}
+
+@media only screen and (max-width: 768px) {
+  body {
+    background-color: #BB8FCE;
+  }
+.container{
+  margin: 50px auto;
+}
+.maintext{
+  width: 100%;
+  margin: 20% 0 0 0%;
+}
+}

@@ -1,11 +1,13 @@
 body{
-  margin: 0px;
+  margin: 0px auto;
 }
 
 .container{
   width: 1200px;
-  margin: 50px 100px 0px 100px;
+  height: 2250px;
+  margin: 0px 100px 0px 100px;
   float: left;
+  background-color: #779C74;
 }
 .title{
   width: 300px;
@@ -20,14 +22,13 @@ body{
   margin: 0px 320px 0px 320px;
   float: left;
 
-
 }
 .h2{
-  font-size: 40px;
+  font-size: 120px;
   text-align: center;
 }
 .h3{
-  font-size: 30px;
+  font-size: 60px;
 }
 .author{
   width: 300px;
@@ -41,15 +42,15 @@ body{
 @media only screen and (max-width: 800px) {
   body {
     background-color: black;
-    text-decoration-color: white;
+    color: white;
 }
 .container{
   margin: 50px auto;
   background-color: black;
-  text-decoration-color: white;
+  color: white;
 }
 .body{
   width: 100%;
   margin: 20% 0 0 0%;
-text-decoration-color: white;
+color: white;
 }

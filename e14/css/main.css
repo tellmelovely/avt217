@@ -1,0 +1,16 @@
+body{
+  margin: 0
+}
+.bigdiv{
+  width: 1000px;
+  height: 500px;
+  background-color: blue;
+  margin:100px auto;
+  position: relative;
+}
+.lildiv{
+  width: 100px;
+  height: 50px;
+  background-color: yellow;
+  position: absolute
+}
